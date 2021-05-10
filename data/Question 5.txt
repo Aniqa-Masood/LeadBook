@@ -1,0 +1,11 @@
+• Briefly describe the architecture of your application.
+
+Ans: I am using Selenium webdriver tool to scrape the data from website and python programming Language to write this appliction.
+- company_index.py will scrape company_name and url and save these data into company_index.json (in data folder)
+- company_profiles.py will read company_index.json file, and will scrape company profiles. The output will be saved in company_profiles.json. (in data folder)
+- mongowork.py will load these two json files into Mongodb and also validate it.
+- test_Mongodb.py will test the functions of mongowork.py.
+
+
+• Which database engine you choose and why?
+Ans: I choose MongoDB database engine Because MongoDB is document oriented i.e. Data is stored in the form of JSON style documents and In our case , we also have data in Json format.In addition to this,It allows us to have objects in one collection having different sets of fields. It supports creating explicit schemas and validating data so it doesn’t get out of control, but this flexibility is an incredible asset when handling real-world data, and handling changes in requirements or environment.

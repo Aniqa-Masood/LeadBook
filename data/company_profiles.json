@@ -1,0 +1,1612 @@
+[
+{
+"company_name": "A&A Technology Group",
+"company_location": "Waco, Texas",
+"company_website": "http://www.aatg.net",
+"company_webdomain": "aatg.net",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$1 - 10M",
+"contact_details": [
+{
+"contact_name": "Phil Anderson",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "Serveilance Systems and Telecommunications",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Matt Hummon",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "Systems Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Jp Miller",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "Accounting / Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Phillip Neely",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "President",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Jp Miller",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "Accounting / Operations",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Alan Hummon",
+"contact_email_domain": "aatg.net",
+"contact_jobtitle": "Vice President",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A Better Answer",
+"company_location": "Plano, Texas",
+"company_website": "http://www.abetteranswer.com",
+"company_webdomain": "abetteranswer.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "100 - 250",
+"company_revenue": "$1 - 10M",
+"contact_details": [
+{
+"contact_name": "Jessica Brown",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Director of Marketing",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Lola Longria",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Information Technology Director",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Stephanie Hyde",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Information Technology Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Roseann Gibbs",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Vicki Young",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "President",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Weiler Debbie",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Office Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "David Epstein",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Executive Vice President",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Dee Sobelman",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Telereceptionist",
+"contact_department": "Other"
+},
+{
+"contact_name": "Brenda Barton",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Collection Manager",
+"contact_department": "Other"
+},
+{
+"contact_name": "Kay Dubose",
+"contact_email_domain": "abetteranswer.com",
+"contact_jobtitle": "Trainer",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A Cheerful Giver",
+"company_location": "San Diego, California",
+"company_website": "http://www.acheerfulgiver.com",
+"company_webdomain": "acheerfulgiver.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "0 - 25",
+"company_revenue": "$0 - 1M",
+"contact_details": [
+{
+"contact_name": "James Pike",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Vice President of Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Stephanie Robbins",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Account Manager",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Debra Wible",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Wholesale Account Manager",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Amanda Morrell",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Sales Account Manager",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Susan Gross",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Christy Eliason",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Tony Gross",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Owner",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Danielle Kummer",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Office ManagerExecutive Assistant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "True Luv",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "God Loves",
+"contact_department": "Other"
+},
+{
+"contact_name": "Lisa Thomas",
+"contact_email_domain": "acheerfulgiver.com",
+"contact_jobtitle": "Bookeeper with expertise working with small businesses",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A-CTI",
+"company_location": "Tualatin, Oregon",
+"company_website": "http://www.answerconnect.com",
+"company_webdomain": "answerconnect.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "100 - 250",
+"company_revenue": "",
+"contact_details": [
+{
+"contact_name": "Kevin Payne",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Marketing Executive",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Divya Bhavani",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Java Developer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Mohan Munirathinam",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Senior System Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Navya Bharathi",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Software Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Christopher Arnold",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Systems Programmer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Mohan Munirathinam",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Senior System Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Navya Bharathi",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Software Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Lorissa Bowersox",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Director, People Operations and Manager, Human Resources",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Donny Stevens",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "Assistant Operations Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Michael Payne",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "General Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Monty Wirth",
+"contact_email_domain": "a-cti.com",
+"contact_jobtitle": "President",
+"contact_department": "Finance"
+}
+]
+},
+{
+"company_name": "A P G Inc",
+"company_location": "Atlanta, Georgia",
+"company_website": "http://www.apg-inc.com",
+"company_webdomain": "apg-inc.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "",
+"contact_details": [
+{
+"contact_name": "Marcus Crivelli",
+"contact_email_domain": "apg-inc.com",
+"contact_jobtitle": "Maintenance Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Marcus Crivelli",
+"contact_email_domain": "apg-inc.com",
+"contact_jobtitle": "Maintenance Technician",
+"contact_department": "Operations"
+}
+]
+},
+{
+"company_name": "Crexendo Business Solutions",
+"company_location": "Tempe, Arizona",
+"company_website": "http://www.crexendo.com",
+"company_webdomain": "crexendo.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "100 - 250",
+"company_revenue": "$10 - 50M",
+"contact_details": [
+{
+"contact_name": "Dom Bria",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Business Development Director",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Steve Oleksak",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Vice President-Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "John O'Brien",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Vice President of Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Theresa Weitzel",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Channel Sales Director",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Joshua Seefeldt",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director Sales Engineering",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Dale Miller",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director of Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Todd Smith",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director of Sales/Operations",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Crandall Steve",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director New Business Development",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Sean Chase",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director of Sales",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Theresa M",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Channel Manager",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Theresa M",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Channel Manager",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Chelsea Mihaylo",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Event Coordinator",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Sally Van Orden",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Accounting and Marketing Assistant",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Bradley Cabanilla",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Marketing and Training Representative",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Michael Ethington",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Sales and Marketing",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Jim Hall",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Cloud Communications Consultant",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Michael Malawy",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Cloud Communications Consultant",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Kate Blake",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Cloud Communications Consultant",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Nishith Chudasama",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Vice President of Engineering",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Jimmy Kalaitzidis",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Senior Technical Field Engineer - Level 2 Lead/Manager",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Lorne Shantz",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Software Engineer Internship",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Brandon Johnston",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Software Test Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Eamon Ohuallachain",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Information Technology Engineer I",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Dan Lincoln",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Senior Architect",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Tim Desmarais",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Level 2 Technical Support Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Alex Bryant",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Information Technology Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Jimmy Kalaitzidis",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Senior Technical Field Engineer - Level 2 Lead/Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Chris Gladden",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Raad Alkhakany",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Information Technology Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Robert H",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Network Administrator 2",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Lorne Shantz",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Software Engineer Internship",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Brandon Johnston",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Software Test Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Brennan Mar",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Lead Information Technology Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Jess Hortman",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Information Systems ADMIN",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Eamon Ohuallachain",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Information Technology Engineer I",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Tim Desmarais",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Level 2 Technical Support Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Doug Gaylor",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "President and Chief Operating Officer",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Brian Spitler",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Vice President of Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Todd Smith",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director of Sales/Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Lynne Parry",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Operations Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Sean R",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Customer Operations Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Celeste Manwaring",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Operations Coordinator",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Steve Mihaylo",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Chairman and Chief Executive Officer",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Joe Seeler",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Controller",
+"contact_department": "Finance"
+},
+{
+"contact_name": "David Krietzberg",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Chief Administrative Officer",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Ron Vincent",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Chief Financial Officer",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Anne Craig",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Assistant Controller",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Chris Gladden",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Doris Berigtold",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Finance Support Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Chelsea Mihaylo",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Event Coordinator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Robert H",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Network Administrator 2",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Owen Priester",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Staff Accountant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Rich Braband",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Managing Director of Strategic Accounts",
+"contact_department": "Other"
+},
+{
+"contact_name": "Jon Brinton",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Chief Revenue Officer",
+"contact_department": "Other"
+},
+{
+"contact_name": "David Williams",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director",
+"contact_department": "Other"
+},
+{
+"contact_name": "Ej Chuidian",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Regional Channel Manager-North america",
+"contact_department": "Other"
+},
+{
+"contact_name": "Kit Bullard",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Vice President",
+"contact_department": "Other"
+},
+{
+"contact_name": "Will Peterson",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Director",
+"contact_department": "Other"
+},
+{
+"contact_name": "Anil Puri",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Board Director",
+"contact_department": "Other"
+},
+{
+"contact_name": "Greg Floyd",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Regional Channel Manager",
+"contact_department": "Other"
+},
+{
+"contact_name": "Henry Chang",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Regional Channel Manager",
+"contact_department": "Other"
+},
+{
+"contact_name": "Adrian Leffler",
+"contact_email_domain": "crexendo.com",
+"contact_jobtitle": "Crexendo Authorized Reseller",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A.V. Lauttamus Communications, Inc.",
+"company_location": "Weirton, West Virginia",
+"company_website": "http://www.lauttamus.com",
+"company_webdomain": "lauttamus.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$10 - 50M",
+"contact_details": [
+{
+"contact_name": "Ron Chabalie",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Electronics Engineering Technician",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Cory Wilkerson",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Director of Information Technology",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Rich Crumm",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Ron Chabalie",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Electronics Engineering Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "James White",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Security Systems Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Jennifer Carr",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "James White",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Security Systems Engineer",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Paul Lauttamus",
+"contact_email_domain": "lauttamus.com",
+"contact_jobtitle": "Vice President",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A-V Services, Inc.",
+"company_location": "Fairfield, California",
+"company_website": "http://www.avservices.net",
+"company_webdomain": "avservices.net",
+"company_industry": "Telecommunications",
+"company_employee_size": "100 - 250",
+"company_revenue": "",
+"contact_details": [
+{
+"contact_name": "Andrew Musci",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Director of Business Development",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Gerry Logan",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Senior Account Executive",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Michael Hagadorn",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Account Manager",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Peter Liotta",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Sales Business Development",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Joseph Shewchuk",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Vice President of Engineering",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Cameron Boswell",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Freelance Audio Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "James Sibrel",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Engineer and Programmer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Matthew Arthur",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Programmer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Kevin Byrne",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Graphic Designer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Roberto Sanchez",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Control System Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Mark Dmc",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Dsp and Audio Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Matthew Kravits",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Project Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Milan Novakovic",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Control System Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "David Sierra",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Technical Talent Resource Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Dustin Klitch",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Senior Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Romel Padiernos",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Audio Visual Technician/Service Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Kevin Jurewicz",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Field Service Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Greg Lavin",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Technical Producer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Andrew Vargas",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Dwayne Jennings",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Site Lead Audio Video Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Kendall Jackson",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Multimedia Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Osvaldo Gonzalez",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Regional Audio Visual Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Michael Ogg",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "AV Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Jan Adams",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Director of Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Edward Rohle",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Project Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Stephen Ziegler",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Project Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Rajvi Sandiford",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Operations Manager, Enterprise Conferencing Techonoly",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Michael Lore",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Consultant / Multimedia Operations Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Randy Mapoy",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Senior Project Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Jason Isenberg",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Audio Visual Operations Manager - AV Services, Inc",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Danilo Pichardo",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "AV operator",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Victor Corrales",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Corporate A/V Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Ralph Capria",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Chief Executive Officer",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Stephen Inge",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Vice President of Finance",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Thomas Schuster",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "TCS Scheduling Services Administrator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Pat Whelan",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Vice President",
+"contact_department": "Other"
+},
+{
+"contact_name": "Vincent Bruno",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Vice President",
+"contact_department": "Other"
+},
+{
+"contact_name": "Stephanie Wilkins",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Director of Integration",
+"contact_department": "Other"
+},
+{
+"contact_name": "Pete Michetti",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Senior Account Director",
+"contact_department": "Other"
+},
+{
+"contact_name": "Mark Zangara",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Production Supervisor",
+"contact_department": "Other"
+},
+{
+"contact_name": "Nelson Kaczmarczyk",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Audio Visual Manager",
+"contact_department": "Other"
+},
+{
+"contact_name": "Mike Van Lenten",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Client Manager - Break / Fix",
+"contact_department": "Other"
+},
+{
+"contact_name": "Emilio Hardy",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Audiovisual and Multimedia Specialist",
+"contact_department": "Other"
+},
+{
+"contact_name": "Avs Limos",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Av tech",
+"contact_department": "Other"
+},
+{
+"contact_name": "Brian Kutanovski",
+"contact_email_domain": "avservices.net",
+"contact_jobtitle": "Multimedia Consultant",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "A1 Teletronics",
+"company_location": "Saint Petersburg, Florida",
+"company_website": "http://www.a1teletronics.com",
+"company_webdomain": "a1teletronics.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "250 - 1000",
+"company_revenue": "$1 - 10M",
+"contact_details": [
+{
+"contact_name": "Jana Ball",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Senior Account Executive A1 Teletronics",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Eric Smith",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Senior Account Executive",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Sara Decoeur",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Account Executive",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Mark Kelley",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Sales Executive",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Terry Hannigan",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Sales Representative",
+"contact_department": "Sales"
+},
+{
+"contact_name": "Karen Newsome",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Product Manager",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Brajesh Kumar",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Software Test Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Brajesh Kumar",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Software Test Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Subramaniam Selladurai",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Administrator/accountant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Kevin Alaniz",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Minister / Senior Pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "Biswa Rai",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Senior Pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "John Toppo",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "John Thomas",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Reverend",
+"contact_department": "Other"
+},
+{
+"contact_name": "Libina Lima",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "PASTORA",
+"contact_department": "Other"
+},
+{
+"contact_name": "Lynnea Chasteen",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Evangelist",
+"contact_department": "Other"
+},
+{
+"contact_name": "Curtis Holt",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "David Ristow",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Intentional interim pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "Garren Donelson",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Pastor",
+"contact_department": "Other"
+},
+{
+"contact_name": "Chillpha Corion",
+"contact_email_domain": "a1teletronics.com",
+"contact_jobtitle": "Associating minister",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "Abacus Group, Inc.",
+"company_location": "Waltham, Massachusetts",
+"company_website": "http://www.abacusgroup.com",
+"company_webdomain": "abacusgroup.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$0 - 1M",
+"contact_details": []
+},
+{
+"company_name": "Abadi Group",
+"company_location": "West Long Branch, New jersey",
+"company_website": "http://www.abadigroup.com",
+"company_webdomain": "abadigroup.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "0 - 25",
+"company_revenue": "",
+"contact_details": [
+{
+"contact_name": "Rangga Munawirawan",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Site Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Nency Va",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Chuck Abadi",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Owner",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Cindy Weston",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Office Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Erlysanzz Erlysanzz",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Administrator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Abraham Abadi",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Director, Partner Programs ? Voice and Data Solutions ? Expert",
+"contact_department": "Other"
+},
+{
+"contact_name": "Michael Black",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Senior Channel Manager",
+"contact_department": "Other"
+},
+{
+"contact_name": "Mahadika Kusuma",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Riau pekan baru",
+"contact_department": "Other"
+},
+{
+"contact_name": "Arifin Aja",
+"contact_email_domain": "abadigroup.com",
+"contact_jobtitle": "Karyawan",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "Abc Compounding",
+"company_location": "Atlanta, Georgia",
+"company_website": "http://www.abccompounding.com",
+"company_webdomain": "abccompounding.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$0 - 1M",
+"contact_details": [
+{
+"contact_name": "Brad Walker",
+"contact_email_domain": "abccompounding.com",
+"contact_jobtitle": "Executive Vice President",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Beth Cox",
+"contact_email_domain": "abccompounding.com",
+"contact_jobtitle": "Accounts Receivable Specialist",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Holly Knapp",
+"contact_email_domain": "abccompounding.com",
+"contact_jobtitle": "Buyer/Planner",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Robin Gibson",
+"contact_email_domain": "abccompounding.com",
+"contact_jobtitle": "Senior Buyer / Planner (Powder, liquid and aerosols)",
+"contact_department": "Finance"
+}
+]
+},
+{
+"company_name": "ABcom",
+"company_location": "Phoenix, Arizona",
+"company_website": "http://www.abcomllc.com",
+"company_webdomain": "abcomllc.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "250 - 1000",
+"company_revenue": "$1 - 10M",
+"contact_details": [
+{
+"contact_name": "Christopher Norris",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Scott Fitzgerald",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Solutions Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Gary Mayer",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Radio Frequency Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Nicholas Tracy",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Special Systems Engineer",
+"contact_department": "Engineering"
+},
+{
+"contact_name": "Jeff Krob",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Lane Pelovsky",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Information Technology Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "James Cluckey",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Blair Studer",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Information Technology Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Zach Ogren",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Power Limited Journeyman Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Ryan Wellenstein",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Power Limited Journeyman Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Matt Lofgren",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Security Systems Engineer",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Charles Martin",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Data Center Tech",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Evan Turpin",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Security Install Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Clarence V",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Lead Fire Alarm Technician",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "Greg Murphy",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Vice President Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Eric Casper",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Director of Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "George Turner",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Director of Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Larry Karel",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Vice President Operations",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Michael Allorto",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Manager",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Brian Schriewer",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Manager/Engineer",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Sarah Vlasak",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Service Coordinator and Operations Analyst",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Matt Lofgren",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Security Systems Engineer",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Evan Turpin",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Security Install Technician",
+"contact_department": "Operations"
+},
+{
+"contact_name": "Larry Soukup",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Controller",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Jeff Krob",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Sarah Mcnaughton",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Staff Accountant and Payroll Specialist",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Madison Soukup",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Staff Accountant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Jay Linder",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Branch Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "James Cluckey",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Project Coordinator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Heather Rollings",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Office Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Pamela Revier",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Staff Accountant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Andrew Rangitsch",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Staff Accountant",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Brandon Reynolds",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Director of Project Management",
+"contact_department": "Other"
+},
+{
+"contact_name": "Adam Freese",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Director of Project Management",
+"contact_department": "Other"
+},
+{
+"contact_name": "Steve Fermo",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Low Voltage Tech",
+"contact_department": "Other"
+},
+{
+"contact_name": "John Westveer",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Journeyman",
+"contact_department": "Other"
+},
+{
+"contact_name": "Harley Fletcher",
+"contact_email_domain": "abcomllc.com",
+"contact_jobtitle": "Estimator",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "Abilita",
+"company_location": "Fort Worth, Texas",
+"company_website": "http://www.abilita.com",
+"company_webdomain": "abilita.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$1 - 10M",
+"contact_details": [
+{
+"contact_name": "Cyndi Crews",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant / Past Board of Director",
+"contact_department": "Other"
+},
+{
+"contact_name": "Dan Aylward",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Senior Consultant, Board of Directors",
+"contact_department": "Other"
+},
+{
+"contact_name": "Paul Anker",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant, Member Board of Directors",
+"contact_department": "Other"
+},
+{
+"contact_name": "George Veach",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Senior Consultant",
+"contact_department": "Other"
+},
+{
+"contact_name": "Ron Jensen",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant",
+"contact_department": "Other"
+},
+{
+"contact_name": "Brian Brawley",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "General Manager, Wireless/Mobility Specialist",
+"contact_department": "Other"
+},
+{
+"contact_name": "John Stinson",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant",
+"contact_department": "Other"
+},
+{
+"contact_name": "Doug Meades",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant",
+"contact_department": "Other"
+},
+{
+"contact_name": "John Kee",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Consultant",
+"contact_department": "Other"
+},
+{
+"contact_name": "David Kell",
+"contact_email_domain": "abilita.com",
+"contact_jobtitle": "Managing Consultant",
+"contact_department": "Other"
+}
+]
+},
+{
+"company_name": "ABIS",
+"company_location": "Grand Prairie, Texas",
+"company_website": "http://www.abisinc.com",
+"company_webdomain": "abisinc.com",
+"company_industry": "Telecommunications",
+"company_employee_size": "25 - 100",
+"company_revenue": "$50 - 100M",
+"contact_details": [
+{
+"contact_name": "Online Business",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Social Media Marketing Manager",
+"contact_department": "Marketing"
+},
+{
+"contact_name": "Amjad Obaida",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Technical Manager",
+"contact_department": "IT & IS"
+},
+{
+"contact_name": "David Fizzano",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Chief Executive Officer",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Georgio Mulongo",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "General Manager",
+"contact_department": "Finance"
+},
+{
+"contact_name": "Aseel Alkhalaf",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Office Administrator",
+"contact_department": "Finance"
+},
+{
+"contact_name": "G Ardhanareeswaran",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Executive",
+"contact_department": "Other"
+},
+{
+"contact_name": "Renaud Dumont",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Dirigeant d?entreprise chez",
+"contact_department": "Other"
+},
+{
+"contact_name": "Tim Cheng",
+"contact_email_domain": "abisinc.com",
+"contact_jobtitle": "Inspector",
+"contact_department": "Other"
+}
+]
+}
+]
