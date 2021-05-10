@@ -7,11 +7,12 @@
 - **test_Mongodb.py** ---> Contain TestCase
 - **drivers (folder)** ---> Contain Chrome Driver for Selenium
 - **data (folder)**
-        |___ company_index_all.json ---> Contains all company indexes.
+
+        |__ company_index_all.json ---> Contains all company indexes.
     
-        |___ company_index.json ---> Contains 15 company indexes (There are almost thousands of company indexes, I just took 15 to scrape company profiles).
+        |__ company_index.json ---> Contains 15 company indexes (There are almost thousands of company indexes, I just took 15 to scrape company profiles).
     
-        |___ company_profiles.json ---> Contains 15 company profiles in detail.
+        |__ company_profiles.json ---> Contains 15 company profiles in detail.
     
-        |___ Question 5 ---> Contains Question no.5 of Assessment.
+        |__ Question 5 ---> Contains Question no.5 of Assessment.
     
