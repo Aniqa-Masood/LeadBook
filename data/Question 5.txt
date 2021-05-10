@@ -11,5 +11,4 @@ Ans: I am using Selenium webdriver tool to scrape the data from website and pyth
 Ans: I choose MongoDB database engine Because MongoDB is document oriented i.e. Data is stored in the form of JSON style documents and In our case , we also have data in 
 Json format.In addition to this,It allows us to have objects in one collection having different sets of fields. It supports creating explicit schemas and validating data 
 so it doesn’t get out of control, but this flexibility is an incredible asset when handling real-world data, and handling changes in requirements or environment.
-  
-    
+   
